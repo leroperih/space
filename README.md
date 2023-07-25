@@ -1,3 +1,3 @@
 # space
  
-link pro <a href="https://31lero31perih31.github.io/space/space/space.html" target="_blank">space</a>
+link pro <a href="https://31lero31perih31.github.io/space/space/space.html" target="_blank" rel="noopener noreferrer">space</a>
